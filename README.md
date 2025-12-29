@@ -61,4 +61,4 @@ python3 verify_all_equations.py
 
 ## License
 
-MIT License - See LICENSE file
+© 2025 BlackRoad OS, Inc. All Rights Reserved
